@@ -1,4 +1,4 @@
-![github banner](https://user-images.githubusercontent.com/99502407/177002980-c75c409f-eab8-4299-84e7-4b2838bac381.svg)
+![github banner lithuanian](https://user-images.githubusercontent.com/99502407/178211608-42581819-a5a5-4e6b-912d-df9c1b7ab543.svg)
 
  ## Hi there, I am Oksana 👋 
 
