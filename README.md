@@ -6,9 +6,7 @@
 
 ### 🔭 I’m currently working on:
  
-  - My old projects
-  - My Portfolio
-  - MK_Baltic
+  - rslang
   
   ---
  
