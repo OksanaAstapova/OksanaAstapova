@@ -6,7 +6,7 @@
 
 ### 🔭 I’m currently working on:
  
-  - YouTube-client-app
+  - TechShop
   
   ---
  
